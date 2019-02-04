@@ -1,0 +1,439 @@
+body {
+    margin: 0;
+    background: #4277f4;
+}
+
+#main {
+    width: 1200px;
+    height: 1400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border: 1px ridge white;
+    border-radius: 10px;
+
+
+}
+
+#wrapper {
+    width: 1000px;
+    height: 1300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background:  #4277f4;
+}
+
+#top {
+    width: 1000px;
+    height: 150px;
+    position: relative;
+}
+
+#topheading {
+    width: 1000px;
+    height: 50px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+#De {
+    color: white;
+    position: absolute;
+    bottom: -5px;
+    left: 320px;
+}
+
+hr {
+    position: relative;
+    bottom: 10px;
+}
+
+#tpnrow {
+    width: 1000px;
+    height: 80px;
+}
+
+.tpncol1 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    position: relative;
+    top: 15px;
+}
+
+.sorteren {
+    color: white;
+    position: relative;
+    left: 45px;
+    bottom: 10px;
+}
+
+.tpncolcircle1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    background: white;
+}
+
+.arrowdown {
+    position: relative;
+    bottom: 8px;
+    left: 10px;
+    color: #4277f4;
+}
+
+.arrowleft {
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    color: #4277f4;
+}
+
+.arrowright {
+    position: relative;
+    bottom: 10px;
+    left: 12px;
+    color: #4277f4;
+}
+
+.one {
+    position: relative;
+    bottom: 12px;
+    left: 15px;
+    color: lightgray;
+}
+
+.two {
+    position: relative;
+    bottom: 12px;
+    left: 15px;
+    color: lightgray;
+}
+
+.three {
+    position: relative;
+    bottom: 12px;
+    left: 15px;
+    color: lightgray;
+}
+
+.dots {
+    position: relative;
+    bottom: 17px;
+    left: 12px;
+    color: lightgray;
+}
+
+.last {
+    position: relative;
+    bottom: 12px;
+    left: 12px;
+    color: lightgray;
+}
+
+.tpncolcircle2 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 120px;
+    background: white;
+}
+
+.tpncolsquare1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 1px ridge white;
+    position: relative;
+    top: 18px;
+    left: 140px;
+    margin-right: 10px;
+}
+
+.tpncolsquare2 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 1px ridge white;
+    position: relative;
+    top: 18px;
+    left: 140px;
+    margin-right: 10px;
+}
+
+.tpncolsquare3 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 1px ridge white;
+    position: relative;
+    top: 18px;
+    left: 140px;
+    margin-right: 10px;
+}
+
+.tpncolsquare4 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    position: relative;
+    top: 18px;
+    left: 140px;
+    margin-right: 10px;
+}
+
+.tpncolsquare5 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 1px ridge white;
+    position: relative;
+    top: 18px;
+    left: 140px;
+    margin-right: 10px;
+}
+
+.tpncolcircle3 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+    background: white;
+}
+
+.tpncol2 {
+    width: 200px;
+    height: 50px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 200px;
+}
+
+.tips {
+    color: white;
+    position: relative;
+    left: 80px;
+    bottom: 10px;
+}
+
+.tpncolcircle4 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 210px;
+    background: white;
+}
+
+
+.secpart {
+    width: 998px;
+    height: 250px;
+    border: 1px ridge white;
+    border-radius: 10px;
+    background:  #4277f4;
+    position: relative;
+    top: 10px;
+    margin-bottom: 60px;
+
+}
+
+.headingrow {
+    width: 998px;
+    height: 50px;
+}
+
+.headingcol1 {
+    width: 300px;
+    height: 50px;
+    border-top-left-radius: 10px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+}
+
+.hoognog {
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    bottom: 27px;
+}
+
+.headingcol2 {
+    width: 70px;
+    height: 50px;
+    border-left: 1px ridge white;
+    border-bottom: 1px ridge white;
+    display: inline-block;
+    position: relative;
+    left: 622px;
+}
+
+.plus {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+}
+
+.line {
+    position: relative;
+    bottom: 15px;
+}
+
+.inforow {
+    width: 998px;
+    height: 140px;
+    position: relative;
+    bottom: 12px;
+}
+
+.infocol1 {
+    width: 150px;
+    height: 130px;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 20px;
+    border: 1px ridge white;
+}
+
+.infocol2 {
+    width: 500px;
+    height: 130px;
+    display: inline-block;
+    position: relative;
+    left: 44px;
+}
+
+.text {
+    color: white;
+    position: relative;
+    bottom: 20px;
+}
+
+.infocol3 {
+    width: 200px;
+    height: 130px;
+    display: inline-block;
+    position: relative;
+    left: 110px;
+    bottom: 5px;
+}
+
+.infocolrow1 {
+    width: 200px;
+    height: 62px;
+    border: 1px ridge white;
+    position: relative;
+    bottom: 17px;
+
+}
+
+.euro {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.infocolrow2 {
+    width: 200px;
+    height: 62px;
+    border: 1px ridge white;
+    position: relative;
+    bottom: 10px;
+}
+
+.star1 {
+    color: white;
+    position: relative;
+    bottom: 5px;
+    left: 60px;
+    display: inline-block;
+
+}
+
+.star2 {
+    color: lightgray;
+    position: relative;
+    bottom: 5px;
+    left: 60px;
+    display: inline-block;
+
+}
+
+.moreinforow {
+    width: 998px;
+    height: 50px;
+    position: relative;
+    bottom: 25px;
+
+}
+
+.left {
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    bottom: 0px;
+}
+
+.send {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    bottom: 47px;
+}
+
+.right1 {
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    left: 600px;
+    bottom: 42px;
+}
+
+.meer {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 15px;
+    left: 120px;
+}
+
+.right2 {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: relative;
+    left: 672px;
+    bottom: 20px;
+    border-radius: 100px;
+    background: white;
+}
+
+.infoicon {
+    color: #4277f4;
+    font-size: 30px;
+    position: relative;
+    bottom: 32px;
+    left: 11px;
+}
